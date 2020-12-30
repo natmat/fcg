@@ -1,1 +1,6 @@
-.idea/*
+.idea/workspace.xml
+.env
+.idea/vcs.xml
+node_modules/
+vendor/
+
