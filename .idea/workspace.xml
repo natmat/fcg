@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1c4152f-bd53-4a38-975f-624982a2d1b3" name="Default Changelist" comment="" />
+    <list default="true" id="c1c4152f-bd53-4a38-975f-624982a2d1b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -129,6 +134,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1mMz9Vo6rnUsKRfMAktWPjPsFF9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -154,7 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609318096707</updated>
-      <workItem from="1609318101292" duration="529000" />
+      <workItem from="1609318101292" duration="803000" />
     </task>
     <servers />
   </component>
